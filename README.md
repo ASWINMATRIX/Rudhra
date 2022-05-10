@@ -6,7 +6,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/v9nzy97.png" width="300" height="300"/>
+  <img border-radius: 15px src="https://telegra.ph/file/ef9fca68e1a8f9c80656b.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="evamwol-v4" src="https://img.shields.io/badge/evamwol-v4-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
