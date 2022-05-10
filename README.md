@@ -1,4 +1,5 @@
 <div align="center">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+EVAMWOL+WA+BOT+REPO.;CREATED+BY+ASWIN+KKD;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
 
  </a>
